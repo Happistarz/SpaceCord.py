@@ -67,5 +67,5 @@ async def name_of_the_function(ctx: spacecord.Context):
 
 ## Main package
 
-Also check out the main package if SpaceCord.py has not the package features
+Also check out the main package if SpaceCord.py has not a features
 - [Reference to discord.py](https://pypi.org/project/discord.py/)
