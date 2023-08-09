@@ -56,7 +56,7 @@ async def ping_comand(ctx: spacecord.Context):
 @bot.bot.add_command('name_of_the_command',"description_of_the_command")
 async def name_of_the_function(ctx: spacecord.Context):
     """
-    The documentation to help you keep in mind what this function does.
+    The documentation help you keep in mind what this function does.
     Also this doc is not essential. If wouldn't, simply remove this."""
     
     # do stuff here...
