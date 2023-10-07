@@ -27,7 +27,7 @@ It is really beneficial for beginner and senior developers.
 Install dependencies
 
 ```bash
-  pip install -U spacecord.py
+  pip install -U spacecord.py (NOT AVAILABLE NOW)
 ```
 
 Import the module
